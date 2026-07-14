@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Paleta Avianco rojo-negro (consistente con presentation/theme/colors.ts) */
+@theme {
+  --color-primary: #d32f2f;
+  --color-primary-dark: #b71c1c;
+  --color-primary-light: #ef5350;
+  --color-dark: #1a1a1a;
+  --color-dark-surface: #242424;
+  --color-dark-border: #3a3a3a;
+}
